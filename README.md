@@ -1,8 +1,10 @@
 # Demo for Vue Todolist
 
-![Alt Text](https://www.demjhonsnelby.com/gifs/vue-todolist.gif)
 
-![Alt Text](./public/vue-todolist.gif)
+<p align="center">
+  <img src="./public/vue-todolist.gif" alt="Alt Text" />
+</p>
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
