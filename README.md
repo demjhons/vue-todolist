@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-![Alt Text](./public/vue-todolist.gif)
+![Alt Text](https://www.demjhonsnelby.com/gifs/vue-todolist.gif)
 
 
 
