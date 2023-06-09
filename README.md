@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+![Alt Text](./public/vue-todolist.gif)
 
 
 
